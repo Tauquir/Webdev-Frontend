@@ -1,1 +1,1 @@
-My frojects on web development which inclute 3d Interactions and Animations
+My projects on web development which include 3d Interactions and Animations
